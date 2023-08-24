@@ -1,4 +1,4 @@
-### <div align="center">I'm Jamille, a 🖥️CompSci student at York University in Toronto</div>  
+### <div align="center">Hi 👋, I'm Jamille, a 🖥️CompSci student at York University in Toronto</div>  
   
 
 - 🔭 I’m currently working as a Web Developer at [Excel Lassonde](https://excellassonde.ca/)  
