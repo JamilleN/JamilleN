@@ -10,7 +10,7 @@
 - 📫 How to reach me: jamilletni@gmail.com
 
 
-- 📄 My resume: <a href="https://github.com/JamilleN/JamilleN/blob/ff8c49173e3ebcd75309f6bb3cf662d8acd32620/Ni_Jamille_Resume_09132023.pdf">click here</a>
+- 📄 My resume: <a href="./Ni_Jamille_Resume_09132023.pdf">click here</a>
 
 
 - ⚡ Fun fact: I am allergic to cats and I have a cat😺  
