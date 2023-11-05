@@ -1,14 +1,12 @@
-### <div align="center">Hi 👋, I'm Jamille, a 🖥️CompSci student at York University in Toronto</div>  
+### <div align="center">Hi 👋, I'm Jamille</div>  
 
+- 💻 I’m an incoming software engineer intern *(Jan. 2024)* at [IBM Canada](https://research.ibm.com/) 
 
-- 🔭 I’m an incoming software engineer intern *(Jan. 2024)* at [IBM Canada](https://research.ibm.com/) 
-
+- 📚 I'm a CompSci student at YorkU in Toronto, ON.
 
 - 📫 How to reach me: jamilletni@gmail.com
 
-
-- 📄 My resume: <a href="https://drive.google.com/file/d/1-E6E92whgDDX6UAp3bF_KMRT9G7fYHW2/view?usp=drivesdk" target="_blank">Click me</a>
-
+- 📄 My resume: <a href="https://drive.google.com/file/d/1_G2aWVa4L3o5zDs7kIfkU21y54lqFto-/view?usp=sharing" target="_blank">Click me</a>
 
 - ⚡ Fun fact: I am allergic to cats and I have a cat😺  
   
