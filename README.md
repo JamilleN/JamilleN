@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Jamille, a 🖥️CompSci student at York University in Toronto</div>  
 
 
-- 🔭 I’m an incoming software engineer intern at [IBM Canada](https://research.ibm.com/)  
+- 🔭 I’m an incoming software engineer intern at [IBM Canada](https://research.ibm.com/) (Jan. 2024)
 
 
 - 📫 How to reach me: jamilletni@gmail.com
