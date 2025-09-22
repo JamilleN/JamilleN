@@ -6,8 +6,6 @@
 
 - 📫 How to reach me: jamilletni@gmail.com
 
-- 📄 My resume: <a href="https://drive.google.com/file/d/1XYJQKNqA7TbdZBBYu-7YvbhKOPFN9wb_/view?usp=sharing" target="_blank">Click me</a>
-
 - ⚡ Fun fact: I am allergic to cats and I have a cat😺  
   
 <br/>  
