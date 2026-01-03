@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋, I'm Jamille</div>  
 
-- 💻 I’m a backend software engineer intern *(Jan. 2024 - Dec. 2024)* AND fulltime SDE (Jan. 2025 - Present)* at [IBM Canada](https://research.ibm.com/) 
+- 💻 I was a backend software engineer intern *(Jan. 2024 - Dec. 2024)* AND am working fulltime as a SDE *(Jan. 2025 - Present)* at [IBM Canada](https://research.ibm.com/) 
 
 - 📚 I was a CompSci student at YorkU in Toronto, ON.
 
