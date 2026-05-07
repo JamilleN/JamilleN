@@ -2,7 +2,7 @@
 
 - 💻 I was a backend software engineer intern *(Jan. 2024 - Dec. 2024)* AND am working fulltime as a SDE *(Jan. 2025 - Present)* at [IBM Canada](https://research.ibm.com/) 
 
-- 📚 I was a CompSci student at YorkU in Toronto, ON.
+- 📚 I was a CompSci student at YorkU in Toronto and an OMSCS student at GT
 
 - 📫 How to reach me: jamilletni@gmail.com
 
